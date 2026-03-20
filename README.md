@@ -1,1 +1,1 @@
-Source code for the "When the Reduction Fails, the Security Falls: A New Fault Attack on ECDSA" paper.
+The current repository contains experimental code to reproduce the simulations and experimental results presented in the article "When the Reduction Fails, the Security Falls: A New Fault Attack on ECDSA"
